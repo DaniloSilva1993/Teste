@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Danilo Silva\\Desktop\\FlappyBird\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Danilo Silva\\Desktop\\FlappyBird\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Danilo Silva\\Desktop\\FlappyBird\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_flappybird.png",
+        "source": "C:\\Users\\Danilo Silva\\Desktop\\FlappyBird\\android\\res\\drawable-xhdpi\\ic_flappybird.png"
+    },
+    {
+        "merged": "C:\\Users\\SAA PC\\Desktop\\FlappyBird\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\SAA PC\\Desktop\\FlappyBird\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
